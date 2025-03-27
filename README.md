@@ -1,28 +1,23 @@
-# Welcome to your Lovable project
+Welcome to our Glitchcon Hackathon Blogging Platform
+Project Information
+URL: https://github.com/Ashrith7981/content-haven-aura
 
-## Project info
+This project is our Glitchcon hackathon creation—a scalable and engaging blogging platform designed to bring digital expression to life. It’s a fully functional project built with passion and modern technology.
 
-**URL**: https://lovable.dev/projects/616775af-ee2d-42cb-b9c0-fc9e1fce95b7
+How Can I Edit This Code?
+You have multiple ways to edit and enhance our blogging platform:
 
-## How can I edit this code?
+1. Use the Online Editor
+Simply visit the project page and start making changes directly in your browser. Every edit you make will automatically be committed to the repository.
 
-There are several ways of editing your application.
+2. Use Your Preferred IDE
+If you prefer working locally, clone this repository and push your changes. The changes you push will be reflected in the project.
 
-**Use Lovable**
+Make sure you have Node.js and npm installed (we recommend installing via nvm). Then follow these steps:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/616775af-ee2d-42cb-b9c0-fc9e1fce95b7) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
+sh
+Copy
+Edit
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
@@ -34,36 +29,41 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
+3. Edit a File Directly on GitHub
+Navigate to the file you want to edit.
 
-**Edit a file directly in GitHub**
+Click the "Edit" button (pencil icon) in the top right corner.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Make your changes and commit them.
 
-**Use GitHub Codespaces**
+4. Use GitHub Codespaces
+Go to the main page of your repository.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Click on the "Code" button (green button) near the top right.
 
-## What technologies are used for this project?
+Select the "Codespaces" tab.
 
-This project is built with .
+Click "New codespace" to launch your environment.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Edit files directly in the Codespace and commit/push your changes once done.
 
-## How can I deploy this project?
+Technologies Used
+This hackathon project is built with:
 
-Simply open [Lovable](https://lovable.dev/projects/616775af-ee2d-42cb-b9c0-fc9e1fce95b7) and click on Share -> Publish.
+Vite
 
-## I want to use a custom domain - is that possible?
+TypeScript
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+React
+
+shadcn-ui
+
+Tailwind CSS
+
+Deploying the Project
+To deploy, simply open the project page and click on Share → Publish.
+
+Custom Domain Support
+Currently, custom domains aren’t supported (yet). For deploying under your own domain, we recommend using Netlify. Check out our documentation for more details: Custom domains
+
+We built this project for the Glitchcon Hackathon to showcase our innovative approach to blogging platforms. Enjoy exploring, editing, and making it even better!
